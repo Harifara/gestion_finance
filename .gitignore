@@ -1,0 +1,20 @@
+# Environnement virtuel
+env/
+venv/
+
+# Django
+*.sqlite3
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Fichiers de config
+*.env
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
